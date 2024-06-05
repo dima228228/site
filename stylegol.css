@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(186, 210, 229);
+}
+div{
+    background-color: bisque;
+    border-radius: 30px;
+}
+p{
+    font-family: "Reddit Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(178, 100, 125);
+}
+h1{text-align: center;}
+h2{text-align: center;}
+h3{text-align: center;}
+h4{text-align: center;}
+h5{text-align: center;}
+h6{text-align: center;}

@@ -1,0 +1,28 @@
+h1{
+    font-family: "Arsenal", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  text-align: center;
+}
+div{
+    font-family: "Arsenal", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  text-align: center;
+}
+body{
+  background-color: rgb(209, 173, 239);
+}
+p{
+  font-family: "Reddit Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: rgb(178, 100, 125);
+}
+h1{text-align: center;}
+h2{text-align: center;}
+h3{text-align: center;}
+h4{text-align: center;}
+h5{text-align: center;}
+h6{text-align: center;}

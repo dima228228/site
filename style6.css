@@ -1,0 +1,71 @@
+footer, header{
+    background-color: rgb(114, 157, 210);
+    padding: 10px;
+}
+.footer-columns{
+    display: flex;
+}
+.footer-col{
+    flex: 50%;
+    margin: 20px;
+}
+main {
+    padding: 10px;
+    background-color: rgb(250, 203, 145);
+}
+.post{
+    background-color: rgb(86, 130, 130);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.post img{
+    margin: 20px;
+}
+.post info{
+    color: blue;
+}
+.Coment{
+    background-color: rgb(188, 168, 143);
+    padding:  20px;
+    border-radius:  10px;
+    margin-top: 10px;
+}
+.aythor{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.date{
+    color: rgb(246, 105, 5);
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.txt{
+    color: rgb(28, 10, 77);
+    background-color: rgb(221, 197, 126);
+    border-radius: 30px;  
+}
+.xx{
+    color: rgb(28, 10, 77);
+    background-color: rgb(221, 197, 126);
+    border-radius: 30px;  
+}
+.tx{
+    color: rgb(28, 10, 77);
+    background-color: rgb(221, 197, 126);
+    border-radius: 30px;  
+}
+p{
+    font-family: "Reddit Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(178, 100, 125);
+}
+h1{text-align: center;}
+h2{text-align: center;}
+h3{text-align: center;}
+h4{text-align: center;}
+h5{text-align: center;}
+h6{text-align: center;}
